@@ -1,4 +1,4 @@
-#check EVM balance
+#check EVM balance by web3py
 from web3 import Web3
 
 #RPC
